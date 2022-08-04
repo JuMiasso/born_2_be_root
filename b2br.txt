@@ -1,0 +1,19 @@
+
+
+1. ROADMAP by @clemedon :
+
+	https://clemedon.github.io/born2beroot_42/
+
+
+
+2. Guide B2br by "code(quoi);" :
+
+	Installation : https://www.codequoi.com/born2beroot-01-creer-une-machine-virtuelle-debian/
+
+	Configuration : https://www.codequoi.com/born2beroot-02-configurer-un-serveur-virtuel-debian/
+
+
+
+3. Script B2br by @Baigalaa :
+
+	https://baigal.medium.com/born2beroot-e6e26dfb50ac
